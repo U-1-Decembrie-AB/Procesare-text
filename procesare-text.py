@@ -1,3 +1,17 @@
+# Instructiuni de rulare in VS Code dupa deschidere terminal CTRL + SHIFT + `
+
+# Creare mediu virtual
+# python -m venv .venv
+
+# Activare mediu
+# ..venv\Scripts\Activate.ps1
+
+# Actualizează pip 
+# pip install --upgrade pip
+
+# Instalează dependențele
+# pip install tensorflow numpy matplotlib scikit-learn seaborn
+
 import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.datasets import imdb
