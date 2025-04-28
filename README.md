@@ -13,8 +13,8 @@ python -m venv .venv
 # Activare mediu
 .\.venv\Scripts\Activate.ps1
 
-# Actualizează pip 
+# Actualizare pip 
 pip install --upgrade pip
 
-# Instalează dependențele
+# Instalare dependente
 pip install tensorflow numpy matplotlib scikit-learn seaborn
