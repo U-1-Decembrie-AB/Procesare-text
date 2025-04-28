@@ -1,8 +1,9 @@
 Instructiuni de rulare
+
 In VS Code:
 Deschizi folderul proiectului
- „File → Open Folder…” si selectezi C:\Procesare-text. VS Code trebuie sa vada fisierele main.py
-
+ „File → Open Folder…” si selectezi folderul proiectului
+ 
 Creezi si activezi un mediu virtual în terminalul VS Code
 Deschide terminalul integrat
 	
